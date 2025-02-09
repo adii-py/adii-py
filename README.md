@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Data Scientist | Machine Learning & Deep Learning Enthusiast | NLP | Transforming Data into Intelligent Systems</h3>
 
 - 📫 How to reach me **adisingh4228@gmail.com**
 
