@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">A passionate Python developer(Data Science)</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
-- 📫 How to reach me **aditya588291@gmail.com**
+- 📫 How to reach me **adisingh4228@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
